@@ -1,0 +1,30 @@
+
+html{
+    background-color: rgb(36, 36, 169);
+}
+.one{
+   color: antiquewhite;
+   font-size: 1cm;
+   text-align: center;
+   
+   
+   
+   }
+   .two{
+    color: black;
+    font-size: 200%;
+   }
+.name{
+    
+    color: white;
+
+}
+footer{
+    color: yellow;
+}
+i{
+    color: white;
+}
+body{
+    text-align: center;
+}
